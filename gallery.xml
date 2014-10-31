@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GALLERY COLUMNS="3" XPOSITION="300" YPOSITION="250" WIDTH="150" HEIGHT="100">
+<IMAGE FULL="full_images/image1.jpg" THUMB="thumbs/image1TH.jpg" />
+<IMAGE FULL="full_images/image2.jpg" THUMB="thumbs/image2TH.jpg" />
+<IMAGE FULL="full_images/image3.jpg" THUMB="thumbs/image3TH.jpg" />
+<IMAGE FULL="full_images/image4.jpg" THUMB="thumbs/image4TH.jpg" />
+<IMAGE FULL="full_images/image5.jpg" THUMB="thumbs/image5TH.jpg" />
+<IMAGE FULL="full_images/image6.jpg" THUMB="thumbs/image6TH.jpg" />
+<IMAGE FULL="full_images/image7.jpg" THUMB="thumbs/image7TH.jpg" />
+<IMAGE FULL="full_images/image8.jpg" THUMB="thumbs/image8TH.jpg" />
+<IMAGE FULL="full_images/image9.jpg" THUMB="thumbs/image9TH.jpg" />
+<IMAGE FULL="full_images/image10.jpg" THUMB="thumbs/image10TH.jpg" />
+
+</GALLERY>
